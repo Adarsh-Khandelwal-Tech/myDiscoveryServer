@@ -1,0 +1,2 @@
+# myDiscoveryServer
+myDiscoveryServer
